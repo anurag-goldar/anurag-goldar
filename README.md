@@ -41,7 +41,7 @@ AI-driven insights can be leveraged in a consulting context to provide strategic
 
 ### 📫 Connect With Me:
 - LinkedIn: https://www.linkedin.com/in/anurag-goldar-504302203/ (#)
-- GitHub: github.com/anurag-goldar(#)
+- GitHub: https://github.com/anurag-goldar(#)
 - Email: anurag.goldar123@gmail.com
 
 💡 _Let's collaborate and build something amazing together! 🚀_
