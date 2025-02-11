@@ -7,10 +7,9 @@
 ### 🔥 About Me:
 - 🎓 Final year student with a passion for **Data Science, AI, and Cloud Computing**.
 - 📊 Experienced in **Data Analytics** with hands-on projects in **Walmart Sales Analysis, YouTube Channel Analysis, and E-Commerce Sales Analysis**.
-- 🏆 **Hackathon Winner** – Developed a project to raise awareness about the **Ganges River**, including a website and a virtual chatbot.
-- 💡 Currently working on an **AI-Powered Personal Finance Tracker and Advisor**.
+- 💡 Currently working on an **AI-Powered Financial Chatbot**.
 - 🌍 Ex-**Cloud Lead at GDSC (Google Developer Student Clubs)**.
-- 💻 Skilled in **Python, SQL, Power BI, Machine Learning, and Web Development**.
+- 💻 Skilled in **Python, SQL, Power BI, Excel, Machine Learning, and NLP**.
 - 📚 Continuously learning and exploring **Machine learning and Natural Language Processing**.
 
 ---
