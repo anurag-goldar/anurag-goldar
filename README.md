@@ -1,11 +1,50 @@
-## 👋 Hi, 
-##   I’m Anurag Goldar 
-- 👀 I’m interested in App development, Cloud Computing
-- 🌱 I’m currently learning Java , AWS essentials  
-- 💞️ I’m looking to collaborate on app projects 
-- 📫 You can reach me out on - [Twitter](https://twitter.com/goldar_anurag)  [Linkedin](https://www.linkedin.com/in/anurag-goldar-504302203/)
+## Hi there, I'm Anurag Goldar! 👋
 
-<!---
-anurag-goldar/anurag-goldar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Cloud Computing Learner**
+
+---
+
+### 🔥 About Me:
+- 🎓 Final year student with a passion for **Data Science, AI, and Cloud Computing**.
+- 📊 Experienced in **Data Analytics** with hands-on projects in **Walmart Sales Analysis, YouTube Channel Analysis, and E-Commerce Sales Analysis**.
+- 🏆 **Hackathon Winner** – Developed a project to raise awareness about the **Ganges River**, including a website and a virtual chatbot.
+- 💡 Currently working on an **AI-Powered Personal Finance Tracker and Advisor**.
+- 🌍 Ex-**Cloud Lead at GDSC (Google Developer Student Clubs)**.
+- 💻 Skilled in **Python, SQL, Power BI, Machine Learning, and Web Development**.
+- 📚 Continuously learning and exploring **Machine learning and Natural Language Processing**.
+
+---
+
+### 🛠️ Tech Stack:
+- **Languages:** Python, SQL, Excel, Java
+- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Databases:** MySQL, PostgreSQL
+- **Web & Cloud:** Firebase, Google Cloud Platform (GCP), Amazon Web Service(AWS)
+- **Tools & Frameworks:** Power BI, NLTK
+- **Others:** Git
+
+---
+
+### 📌 Featured Projects:
+#### 🔹 [Walmart Sales Analysis](#)  
+Analyzed sales trends and customer behavior using Python, Pandas, and Seaborn.
+
+#### 🔹 [YouTube Channel Analysis](#)  
+Extracted and visualized insights from YouTube API data using Google API Client.
+
+#### 🔹 [E-Commerce Sales Dashboard](#)  
+Built an interactive sales dashboard using **Excel & Power BI**.
+
+#### 🔹 [AI-Powered Financial Chatbot (Ongoing)](#)  
+AI-driven insights can be leveraged in a consulting context to provide strategic recommendations and solutions to clients.
+
+---
+
+### 📫 Connect With Me:
+- LinkedIn: https://www.linkedin.com/in/anurag-goldar-504302203/ (#)
+- GitHub: github.com/anurag-goldar(#)
+- Email: anurag.goldar123@gmail.com
+
+💡 _Let's collaborate and build something amazing together! 🚀_
+
+
