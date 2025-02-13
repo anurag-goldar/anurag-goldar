@@ -31,8 +31,8 @@ Analyzed sales trends and customer behavior using Python, Pandas, and Seaborn.
 #### 🔹 [YouTube Channel Analysis](#)  
 Extracted and visualized insights from YouTube API data using Google API Client.
 
-#### 🔹 [E-Commerce Sales Dashboard](#)  
-Built an interactive sales dashboard using **Excel & Power BI**.
+#### 🔹 [Fetching and Analyzing Top 50 Live Cryptocurrency Data](#)  
+Built a Python script to fetch and analyze top 50 cryptocurrencies, achieving 100% data accuracy using CoinGecko API**.
 
 #### 🔹 [AI-Powered Financial Chatbot (Ongoing)](#)  
 AI-driven insights can be leveraged in a consulting context to provide strategic recommendations and solutions to clients.
