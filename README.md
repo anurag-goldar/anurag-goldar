@@ -34,7 +34,7 @@ Extracted and visualized insights from YouTube API data using Google API Client.
 #### 🔹 [Fetching and Analyzing Top 50 Live Cryptocurrency Data](#)  
 Built a Python script to fetch and analyze top 50 cryptocurrencies, achieving 100% data accuracy using CoinGecko API**.
 
-#### 🔹 [AI-Powered Financial Chatbot (Ongoing)](#)  
+#### 🔹 [AI-Powered Financial Chatbot](#)  
 AI-driven insights can be leveraged in a consulting context to provide strategic recommendations and solutions to clients.
 
 ---
